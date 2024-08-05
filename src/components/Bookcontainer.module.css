@@ -1,0 +1,24 @@
+.mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bookcontainer {
+    background-color: navy;
+    color: white;
+    margin: 30px;
+    padding: 20px;
+    width: 25%;
+    border-radius: 30px;
+    box-shadow: 0, 4px, 5px, rgba(0, 0, 0, 0.2);
+
+}
+
+.deletebtn {
+    padding: 8px 10px;
+    width: 40%;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
